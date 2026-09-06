@@ -1,0 +1,6 @@
+{
+  "name": "Aura — Institutional & Design Studio",
+  "description": "Site institucional moderno e minimalista com animações Framer Motion, smooth scroll Lenis e scroll-scrubbing interativo estilo Apple.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
